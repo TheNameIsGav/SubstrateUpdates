@@ -1,0 +1,5414 @@
+
+
+Debug Trace:
+ID:0 (Air), Data:0
+ID:1 (Stone), Data:0
+ID:1 (Stone), Data:1
+ID:1 (Stone), Data:2
+ID:1 (Stone), Data:3
+ID:1 (Stone), Data:4
+ID:1 (Stone), Data:5
+ID:1 (Stone), Data:6
+ID:2 (Grass), Data:0
+ID:2 (Grass), Data:0
+ID:3 (Dirt), Data:0
+ID:3 (Dirt), Data:1
+ID:3 (Dirt), Data:2
+ID:3 (Dirt), Data:0
+ID:3 (Dirt), Data:1
+ID:3 (Dirt), Data:2
+ID:4 (Cobblestone), Data:0
+ID:5 (Wooden Plank), Data:0
+ID:5 (Wooden Plank), Data:1
+ID:5 (Wooden Plank), Data:2
+ID:5 (Wooden Plank), Data:3
+ID:5 (Wooden Plank), Data:4
+ID:5 (Wooden Plank), Data:5
+ID:6 (Sapling), Data:0
+ID:6 (Sapling), Data:1
+ID:6 (Sapling), Data:2
+ID:6 (Sapling), Data:3
+ID:6 (Sapling), Data:4
+ID:6 (Sapling), Data:5
+ID:6 (Sapling), Data:8
+ID:6 (Sapling), Data:9
+ID:6 (Sapling), Data:10
+ID:6 (Sapling), Data:11
+ID:6 (Sapling), Data:12
+ID:6 (Sapling), Data:13
+ID:7 (Bedrock), Data:0
+ID:8 (Water), Data:0
+ID:8 (Water), Data:1
+ID:8 (Water), Data:2
+ID:8 (Water), Data:3
+ID:8 (Water), Data:4
+ID:8 (Water), Data:5
+ID:8 (Water), Data:6
+ID:8 (Water), Data:7
+ID:8 (Water), Data:8
+ID:8 (Water), Data:9
+ID:8 (Water), Data:10
+ID:8 (Water), Data:11
+ID:8 (Water), Data:12
+ID:8 (Water), Data:13
+ID:8 (Water), Data:14
+ID:8 (Water), Data:15
+ID:9 (Stationary Water), Data:0
+ID:9 (Stationary Water), Data:1
+ID:9 (Stationary Water), Data:2
+ID:9 (Stationary Water), Data:3
+ID:9 (Stationary Water), Data:4
+ID:9 (Stationary Water), Data:5
+ID:9 (Stationary Water), Data:6
+ID:9 (Stationary Water), Data:7
+ID:9 (Stationary Water), Data:8
+ID:9 (Stationary Water), Data:9
+ID:9 (Stationary Water), Data:10
+ID:9 (Stationary Water), Data:11
+ID:9 (Stationary Water), Data:12
+ID:9 (Stationary Water), Data:13
+ID:9 (Stationary Water), Data:14
+ID:9 (Stationary Water), Data:15
+ID:10 (Lava), Data:0
+ID:10 (Lava), Data:1
+ID:10 (Lava), Data:2
+ID:10 (Lava), Data:3
+ID:10 (Lava), Data:4
+ID:10 (Lava), Data:5
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:10 (Lava), Data:5
+ID:10 (Lava), Data:6
+ID:10 (Lava), Data:7
+ID:10 (Lava), Data:8
+ID:10 (Lava), Data:9
+ID:10 (Lava), Data:10
+ID:10 (Lava), Data:11
+ID:10 (Lava), Data:12
+ID:10 (Lava), Data:13
+ID:10 (Lava), Data:14
+ID:10 (Lava), Data:15
+ID:11 (Stationary Lava), Data:0
+ID:11 (Stationary Lava), Data:1
+ID:11 (Stationary Lava), Data:2
+ID:11 (Stationary Lava), Data:3
+ID:11 (Stationary Lava), Data:4
+ID:11 (Stationary Lava), Data:5
+ID:11 (Stationary Lava), Data:6
+ID:11 (Stationary Lava), Data:7
+ID:11 (Stationary Lava), Data:8
+ID:11 (Stationary Lava), Data:9
+ID:11 (Stationary Lava), Data:10
+ID:11 (Stationary Lava), Data:11
+ID:11 (Stationary Lava), Data:12
+ID:11 (Stationary Lava), Data:13
+ID:11 (Stationary Lava), Data:14
+ID:11 (Stationary Lava), Data:15
+ID:12 (Sand), Data:0
+ID:12 (Sand), Data:1
+ID:13 (Gravel), Data:0
+ID:14 (Gold Ore), Data:0
+ID:15 (Iron Ore), Data:0
+ID:16 (Coal Ore), Data:0
+ID:17 (Wood), Data:4
+Data value '0x0004' not recognised for block 'Wood' at 3,67
+ID:17 (Wood), Data:5
+Data value '0x0005' not recognised for block 'Wood' at 3,69
+ID:17 (Wood), Data:6
+Data value '0x0006' not recognised for block 'Wood' at 3,71
+ID:17 (Wood), Data:7
+Data value '0x0007' not recognised for block 'Wood' at 3,73
+ID:17 (Wood), Data:0
+ID:17 (Wood), Data:1
+ID:17 (Wood), Data:2
+ID:17 (Wood), Data:3
+Data value '0x0003' not recognised for block 'Wood' at 3,81
+ID:17 (Wood), Data:8
+Data value '0x0008' not recognised for block 'Wood' at 3,83
+ID:17 (Wood), Data:9
+Data value '0x0009' not recognised for block 'Wood' at 3,85
+ID:17 (Wood), Data:10
+Data value '0x000A' not recognised for block 'Wood' at 3,87
+ID:17 (Wood), Data:11
+Data value '0x000B' not recognised for block 'Wood' at 3,89
+ID:17 (Wood), Data:12
+Data value '0x000C' not recognised for block 'Wood' at 3,91
+ID:17 (Wood), Data:13
+Data value '0x000D' not recognised for block 'Wood' at 3,93
+ID:17 (Wood), Data:14
+Data value '0x000E' not recognised for block 'Wood' at 3,95
+ID:17 (Wood), Data:15
+Data value '0x000F' not recognised for block 'Wood' at 3,97
+ID:18 (Leaves), Data:8
+Data value '0x0008' not recognised for block 'Leaves' at 3,99
+ID:18 (Leaves), Data:9
+Data value '0x0009' not recognised for block 'Leaves' at 3,101
+ID:18 (Leaves), Data:10
+Data value '0x000A' not recognised for block 'Leaves' at 3,103
+ID:18 (Leaves), Data:11
+Data value '0x000B' not recognised for block 'Leaves' at 3,105
+ID:18 (Leaves), Data:12
+Data value '0x000C' not recognised for block 'Leaves' at 3,107
+ID:18 (Leaves), Data:13
+Data value '0x000D' not recognised for block 'Leaves' at 3,109
+ID:18 (Leaves), Data:14
+Data value '0x000E' not recognised for block 'Leaves' at 3,111
+ID:18 (Leaves), Data:15
+Data value '0x000F' not recognised for block 'Leaves' at 3,113
+ID:18 (Leaves), Data:0
+ID:18 (Leaves), Data:1
+ID:18 (Leaves), Data:2
+ID:18 (Leaves), Data:3
+Data value '0x0003' not recognised for block 'Leaves' at 3,121
+ID:18 (Leaves), Data:4
+Data value '0x0004' not recognised for block 'Leaves' at 3,123
+ID:18 (Leaves), Data:5
+Data value '0x0005' not recognised for block 'Leaves' at 3,125
+ID:18 (Leaves), Data:6
+Data value '0x0006' not recognised for block 'Leaves' at 3,127
+ID:18 (Leaves), Data:7
+Data value '0x0007' not recognised for block 'Leaves' at 3,129
+ID:19 (Sponge), Data:1
+ID:19 (Sponge), Data:0
+ID:20 (Glass), Data:0
+ID:21 (Lapis Lazuli Ore), Data:0
+ID:22 (Lapis Lazuli Block), Data:0
+ID:23 (Dispenser), Data:8
+Data value '0x0008' not recognised for block 'Dispenser' at 3,141
+ID:23 (Dispenser), Data:0
+Data value '0x0000' not recognised for block 'Dispenser' at 3,143
+ID:23 (Dispenser), Data:9
+Data value '0x0009' not recognised for block 'Dispenser' at 3,145
+ID:23 (Dispenser), Data:1
+Data value '0x0001' not recognised for block 'Dispenser' at 3,147
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:23 (Dispenser), Data:1
+Data value '0x0001' not recognised for block 'Dispenser' at 5,1
+ID:23 (Dispenser), Data:10
+Data value '0x000A' not recognised for block 'Dispenser' at 5,3
+ID:23 (Dispenser), Data:2
+ID:23 (Dispenser), Data:11
+Data value '0x000B' not recognised for block 'Dispenser' at 5,7
+ID:23 (Dispenser), Data:3
+ID:23 (Dispenser), Data:12
+Data value '0x000C' not recognised for block 'Dispenser' at 5,11
+ID:23 (Dispenser), Data:4
+ID:23 (Dispenser), Data:13
+Data value '0x000D' not recognised for block 'Dispenser' at 5,15
+ID:23 (Dispenser), Data:5
+ID:24 (Sandstone), Data:0
+ID:24 (Sandstone), Data:1
+ID:24 (Sandstone), Data:2
+ID:25 (Note Block), Data:0
+ID:26 (Bed), Data:14
+Data value '0x000E' not recognised for block 'Bed' at 5,27
+ID:26 (Bed), Data:2
+ID:26 (Bed), Data:10
+ID:26 (Bed), Data:2
+ID:26 (Bed), Data:12
+Data value '0x000C' not recognised for block 'Bed' at 5,35
+ID:26 (Bed), Data:0
+ID:26 (Bed), Data:8
+ID:26 (Bed), Data:0
+ID:26 (Bed), Data:13
+Data value '0x000D' not recognised for block 'Bed' at 5,43
+ID:26 (Bed), Data:1
+ID:26 (Bed), Data:9
+ID:26 (Bed), Data:1
+ID:26 (Bed), Data:15
+Data value '0x000F' not recognised for block 'Bed' at 5,51
+ID:26 (Bed), Data:3
+ID:26 (Bed), Data:11
+ID:26 (Bed), Data:3
+ID:27 (Powered Rail), Data:8
+ID:27 (Powered Rail), Data:9
+ID:27 (Powered Rail), Data:10
+ID:27 (Powered Rail), Data:11
+ID:27 (Powered Rail), Data:12
+ID:27 (Powered Rail), Data:13
+ID:27 (Powered Rail), Data:0
+ID:27 (Powered Rail), Data:1
+ID:27 (Powered Rail), Data:2
+ID:27 (Powered Rail), Data:3
+ID:27 (Powered Rail), Data:4
+ID:27 (Powered Rail), Data:5
+ID:28 (Detector Rail), Data:8
+ID:28 (Detector Rail), Data:9
+ID:28 (Detector Rail), Data:10
+ID:28 (Detector Rail), Data:11
+ID:28 (Detector Rail), Data:12
+ID:28 (Detector Rail), Data:13
+ID:28 (Detector Rail), Data:0
+ID:28 (Detector Rail), Data:1
+ID:28 (Detector Rail), Data:2
+ID:28 (Detector Rail), Data:3
+ID:28 (Detector Rail), Data:4
+ID:28 (Detector Rail), Data:5
+ID:29 (Sticky Piston), Data:8
+Data value '0x0008' not recognised for block 'Sticky Piston' at 5,107
+ID:29 (Sticky Piston), Data:9
+ID:29 (Sticky Piston), Data:10
+ID:29 (Sticky Piston), Data:11
+ID:29 (Sticky Piston), Data:12
+ID:29 (Sticky Piston), Data:13
+ID:29 (Sticky Piston), Data:0
+Data value '0x0000' not recognised for block 'Sticky Piston' at 5,119
+ID:29 (Sticky Piston), Data:1
+ID:29 (Sticky Piston), Data:2
+ID:29 (Sticky Piston), Data:3
+ID:29 (Sticky Piston), Data:4
+ID:29 (Sticky Piston), Data:5
+ID:30 (Cobweb), Data:0
+ID:31 (Tall Grass), Data:0
+ID:31 (Tall Grass), Data:1
+ID:31 (Tall Grass), Data:2
+ID:32 (Dead Shrub), Data:0
+ID:33 (Piston), Data:8
+Data value '0x0008' not recognised for block 'Piston' at 5,141
+ID:33 (Piston), Data:9
+ID:33 (Piston), Data:10
+ID:33 (Piston), Data:11
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:33 (Piston), Data:11
+ID:33 (Piston), Data:12
+ID:33 (Piston), Data:13
+ID:33 (Piston), Data:0
+Data value '0x0000' not recognised for block 'Piston' at 7,7
+ID:33 (Piston), Data:1
+ID:33 (Piston), Data:2
+ID:33 (Piston), Data:3
+ID:33 (Piston), Data:4
+ID:33 (Piston), Data:5
+ID:34 (Piston Head), Data:0
+Data value '0x0000' not recognised for block 'Piston Head' at 7,19
+ID:34 (Piston Head), Data:8
+Data value '0x0008' not recognised for block 'Piston Head' at 7,21
+ID:34 (Piston Head), Data:0
+Data value '0x0000' not recognised for block 'Piston Head' at 7,23
+ID:34 (Piston Head), Data:8
+Data value '0x0008' not recognised for block 'Piston Head' at 7,25
+ID:34 (Piston Head), Data:1
+ID:34 (Piston Head), Data:9
+ID:34 (Piston Head), Data:1
+ID:34 (Piston Head), Data:9
+ID:34 (Piston Head), Data:2
+ID:34 (Piston Head), Data:10
+ID:34 (Piston Head), Data:2
+ID:34 (Piston Head), Data:10
+ID:34 (Piston Head), Data:3
+ID:34 (Piston Head), Data:11
+ID:34 (Piston Head), Data:3
+ID:34 (Piston Head), Data:11
+ID:34 (Piston Head), Data:4
+ID:34 (Piston Head), Data:12
+ID:34 (Piston Head), Data:4
+ID:34 (Piston Head), Data:12
+ID:34 (Piston Head), Data:5
+ID:34 (Piston Head), Data:13
+ID:34 (Piston Head), Data:5
+ID:34 (Piston Head), Data:13
+ID:35 (Wool), Data:0
+ID:35 (Wool), Data:1
+ID:35 (Wool), Data:2
+ID:35 (Wool), Data:3
+ID:35 (Wool), Data:4
+ID:35 (Wool), Data:5
+ID:35 (Wool), Data:6
+ID:35 (Wool), Data:7
+ID:35 (Wool), Data:8
+ID:35 (Wool), Data:9
+ID:35 (Wool), Data:10
+ID:35 (Wool), Data:11
+ID:35 (Wool), Data:12
+ID:35 (Wool), Data:13
+ID:35 (Wool), Data:14
+ID:35 (Wool), Data:15
+ID:36 (Piston Moving), Data:0
+ID:36 (Piston Moving), Data:8
+ID:36 (Piston Moving), Data:1
+ID:36 (Piston Moving), Data:9
+ID:36 (Piston Moving), Data:2
+ID:36 (Piston Moving), Data:10
+ID:36 (Piston Moving), Data:3
+ID:36 (Piston Moving), Data:11
+ID:36 (Piston Moving), Data:4
+ID:36 (Piston Moving), Data:12
+ID:36 (Piston Moving), Data:5
+ID:36 (Piston Moving), Data:13
+ID:37 (Yellow Flower), Data:0
+ID:38 (Red Rose), Data:0
+ID:38 (Red Rose), Data:1
+ID:38 (Red Rose), Data:2
+ID:38 (Red Rose), Data:3
+ID:38 (Red Rose), Data:4
+ID:38 (Red Rose), Data:5
+ID:38 (Red Rose), Data:6
+ID:38 (Red Rose), Data:7
+ID:38 (Red Rose), Data:8
+ID:39 (Brown Mushroom), Data:0
+ID:40 (Red Mushroom), Data:0
+ID:41 (Gold Block), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:41 (Gold Block), Data:0
+ID:42 (Iron Block), Data:0
+ID:43 (Double Slab), Data:8
+ID:43 (Double Slab), Data:9
+ID:43 (Double Slab), Data:10
+ID:43 (Double Slab), Data:11
+ID:43 (Double Slab), Data:12
+ID:43 (Double Slab), Data:13
+ID:43 (Double Slab), Data:14
+Data value '0x000E' not recognised for block 'Double Slab' at 9,17
+ID:43 (Double Slab), Data:15
+Data value '0x000F' not recognised for block 'Double Slab' at 9,19
+ID:43 (Double Slab), Data:0
+ID:43 (Double Slab), Data:1
+ID:43 (Double Slab), Data:2
+ID:43 (Double Slab), Data:3
+ID:43 (Double Slab), Data:4
+ID:43 (Double Slab), Data:5
+ID:43 (Double Slab), Data:6
+Data value '0x0006' not recognised for block 'Double Slab' at 9,33
+ID:43 (Double Slab), Data:7
+Data value '0x0007' not recognised for block 'Double Slab' at 9,35
+ID:44 (Slab), Data:8
+Data value '0x0008' not recognised for block 'Slab' at 9,37
+ID:44 (Slab), Data:9
+Data value '0x0009' not recognised for block 'Slab' at 9,39
+ID:44 (Slab), Data:10
+Data value '0x000A' not recognised for block 'Slab' at 9,41
+ID:44 (Slab), Data:11
+Data value '0x000B' not recognised for block 'Slab' at 9,43
+ID:44 (Slab), Data:12
+Data value '0x000C' not recognised for block 'Slab' at 9,45
+ID:44 (Slab), Data:13
+Data value '0x000D' not recognised for block 'Slab' at 9,47
+ID:44 (Slab), Data:14
+Data value '0x000E' not recognised for block 'Slab' at 9,49
+ID:44 (Slab), Data:15
+Data value '0x000F' not recognised for block 'Slab' at 9,51
+ID:44 (Slab), Data:0
+ID:44 (Slab), Data:1
+ID:44 (Slab), Data:2
+ID:44 (Slab), Data:3
+ID:44 (Slab), Data:4
+ID:44 (Slab), Data:5
+ID:44 (Slab), Data:6
+Data value '0x0006' not recognised for block 'Slab' at 9,65
+ID:44 (Slab), Data:7
+Data value '0x0007' not recognised for block 'Slab' at 9,67
+ID:45 (Brick Block), Data:0
+ID:46 (TNT), Data:1
+ID:46 (TNT), Data:0
+ID:47 (Bookshelf), Data:0
+ID:48 (Moss Stone), Data:0
+ID:49 (Obsidian), Data:0
+ID:50 (Torch), Data:5
+ID:50 (Torch), Data:4
+ID:50 (Torch), Data:3
+ID:50 (Torch), Data:2
+ID:50 (Torch), Data:1
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:0
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:1
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:2
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:3
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:4
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:5
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:6
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:7
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:8
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:9
+ID:51 (Fire), Data:10
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:10
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:11
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:12
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:13
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:14
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:51 (Fire), Data:15
+ID:52 (Monster Spawner), Data:0
+ID:53 (Wooden Stairs), Data:7
+ID:53 (Wooden Stairs), Data:7
+ID:53 (Wooden Stairs), Data:7
+ID:53 (Wooden Stairs), Data:7
+ID:53 (Wooden Stairs), Data:7
+ID:53 (Wooden Stairs), Data:3
+ID:53 (Wooden Stairs), Data:3
+ID:53 (Wooden Stairs), Data:3
+ID:53 (Wooden Stairs), Data:3
+ID:53 (Wooden Stairs), Data:3
+ID:53 (Wooden Stairs), Data:6
+ID:53 (Wooden Stairs), Data:6
+ID:53 (Wooden Stairs), Data:6
+ID:53 (Wooden Stairs), Data:6
+ID:53 (Wooden Stairs), Data:6
+ID:53 (Wooden Stairs), Data:2
+ID:53 (Wooden Stairs), Data:2
+ID:53 (Wooden Stairs), Data:2
+ID:53 (Wooden Stairs), Data:2
+ID:53 (Wooden Stairs), Data:2
+ID:53 (Wooden Stairs), Data:5
+ID:53 (Wooden Stairs), Data:5
+ID:53 (Wooden Stairs), Data:5
+ID:53 (Wooden Stairs), Data:5
+ID:53 (Wooden Stairs), Data:5
+ID:53 (Wooden Stairs), Data:1
+ID:53 (Wooden Stairs), Data:1
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:53 (Wooden Stairs), Data:1
+ID:53 (Wooden Stairs), Data:1
+ID:53 (Wooden Stairs), Data:1
+ID:53 (Wooden Stairs), Data:1
+ID:53 (Wooden Stairs), Data:4
+ID:53 (Wooden Stairs), Data:4
+ID:53 (Wooden Stairs), Data:4
+ID:53 (Wooden Stairs), Data:4
+ID:53 (Wooden Stairs), Data:4
+ID:53 (Wooden Stairs), Data:0
+ID:53 (Wooden Stairs), Data:0
+ID:53 (Wooden Stairs), Data:0
+ID:53 (Wooden Stairs), Data:0
+ID:53 (Wooden Stairs), Data:0
+ID:54 (Chest), Data:2
+ID:54 (Chest), Data:3
+ID:54 (Chest), Data:4
+ID:54 (Chest), Data:5
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:7
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:0
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:1
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:2
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:3
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:4
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:5
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:6
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:7
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:55 (Redstone Wire), Data:7
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:8
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:9
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:10
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:11
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:12
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:13
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:14
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:55 (Redstone Wire), Data:15
+ID:56 (Diamond Ore), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:56 (Diamond Ore), Data:0
+ID:57 (Diamond Block), Data:0
+ID:58 (Crafting Table), Data:0
+ID:59 (Crops), Data:0
+ID:59 (Crops), Data:1
+ID:59 (Crops), Data:2
+ID:59 (Crops), Data:3
+ID:59 (Crops), Data:4
+ID:59 (Crops), Data:5
+ID:59 (Crops), Data:6
+ID:59 (Crops), Data:7
+ID:60 (Farmland), Data:0
+ID:60 (Farmland), Data:1
+ID:60 (Farmland), Data:2
+ID:60 (Farmland), Data:3
+ID:60 (Farmland), Data:4
+ID:60 (Farmland), Data:5
+ID:60 (Farmland), Data:6
+ID:60 (Farmland), Data:7
+ID:61 (Furnace), Data:2
+ID:61 (Furnace), Data:3
+ID:61 (Furnace), Data:4
+ID:61 (Furnace), Data:5
+ID:62 (Burning Furnace), Data:2
+ID:62 (Burning Furnace), Data:3
+ID:62 (Burning Furnace), Data:4
+ID:62 (Burning Furnace), Data:5
+ID:63 (Sign Post), Data:0
+ID:63 (Sign Post), Data:1
+ID:63 (Sign Post), Data:2
+ID:63 (Sign Post), Data:3
+ID:63 (Sign Post), Data:4
+ID:63 (Sign Post), Data:5
+ID:63 (Sign Post), Data:6
+ID:63 (Sign Post), Data:7
+ID:63 (Sign Post), Data:8
+ID:63 (Sign Post), Data:9
+ID:63 (Sign Post), Data:10
+ID:63 (Sign Post), Data:11
+ID:63 (Sign Post), Data:12
+ID:63 (Sign Post), Data:13
+ID:63 (Sign Post), Data:14
+ID:63 (Sign Post), Data:15
+ID:64 (Wooden Door), Data:10
+ID:64 (Wooden Door), Data:8
+ID:64 (Wooden Door), Data:10
+ID:64 (Wooden Door), Data:8
+ID:64 (Wooden Door), Data:11
+ID:64 (Wooden Door), Data:9
+ID:64 (Wooden Door), Data:11
+ID:64 (Wooden Door), Data:9
+ID:64 (Wooden Door), Data:7
+ID:64 (Wooden Door), Data:7
+ID:64 (Wooden Door), Data:3
+ID:64 (Wooden Door), Data:3
+ID:64 (Wooden Door), Data:7
+ID:64 (Wooden Door), Data:7
+ID:64 (Wooden Door), Data:3
+ID:64 (Wooden Door), Data:3
+ID:64 (Wooden Door), Data:10
+ID:64 (Wooden Door), Data:8
+ID:64 (Wooden Door), Data:10
+ID:64 (Wooden Door), Data:8
+ID:64 (Wooden Door), Data:11
+ID:64 (Wooden Door), Data:9
+ID:64 (Wooden Door), Data:11
+ID:64 (Wooden Door), Data:9
+ID:64 (Wooden Door), Data:5
+ID:64 (Wooden Door), Data:5
+ID:64 (Wooden Door), Data:1
+ID:64 (Wooden Door), Data:1
+ID:64 (Wooden Door), Data:5
+ID:64 (Wooden Door), Data:5
+ID:64 (Wooden Door), Data:1
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:64 (Wooden Door), Data:1
+ID:64 (Wooden Door), Data:1
+ID:64 (Wooden Door), Data:10
+ID:64 (Wooden Door), Data:8
+ID:64 (Wooden Door), Data:10
+ID:64 (Wooden Door), Data:8
+ID:64 (Wooden Door), Data:11
+ID:64 (Wooden Door), Data:9
+ID:64 (Wooden Door), Data:11
+ID:64 (Wooden Door), Data:9
+ID:64 (Wooden Door), Data:6
+ID:64 (Wooden Door), Data:6
+ID:64 (Wooden Door), Data:2
+ID:64 (Wooden Door), Data:2
+ID:64 (Wooden Door), Data:6
+ID:64 (Wooden Door), Data:6
+ID:64 (Wooden Door), Data:2
+ID:64 (Wooden Door), Data:2
+ID:64 (Wooden Door), Data:10
+ID:64 (Wooden Door), Data:8
+ID:64 (Wooden Door), Data:10
+ID:64 (Wooden Door), Data:8
+ID:64 (Wooden Door), Data:11
+ID:64 (Wooden Door), Data:9
+ID:64 (Wooden Door), Data:11
+ID:64 (Wooden Door), Data:9
+ID:64 (Wooden Door), Data:4
+ID:64 (Wooden Door), Data:4
+ID:64 (Wooden Door), Data:0
+ID:64 (Wooden Door), Data:0
+ID:64 (Wooden Door), Data:4
+ID:64 (Wooden Door), Data:4
+ID:64 (Wooden Door), Data:0
+ID:64 (Wooden Door), Data:0
+ID:65 (Ladder), Data:2
+ID:65 (Ladder), Data:3
+ID:65 (Ladder), Data:4
+ID:65 (Ladder), Data:5
+ID:66 (Rails), Data:0
+ID:66 (Rails), Data:1
+ID:66 (Rails), Data:2
+ID:66 (Rails), Data:3
+ID:66 (Rails), Data:4
+ID:66 (Rails), Data:5
+ID:66 (Rails), Data:6
+ID:66 (Rails), Data:7
+ID:66 (Rails), Data:8
+ID:66 (Rails), Data:9
+ID:67 (Cobblestone Stairs), Data:7
+ID:67 (Cobblestone Stairs), Data:7
+ID:67 (Cobblestone Stairs), Data:7
+ID:67 (Cobblestone Stairs), Data:7
+ID:67 (Cobblestone Stairs), Data:7
+ID:67 (Cobblestone Stairs), Data:3
+ID:67 (Cobblestone Stairs), Data:3
+ID:67 (Cobblestone Stairs), Data:3
+ID:67 (Cobblestone Stairs), Data:3
+ID:67 (Cobblestone Stairs), Data:3
+ID:67 (Cobblestone Stairs), Data:6
+ID:67 (Cobblestone Stairs), Data:6
+ID:67 (Cobblestone Stairs), Data:6
+ID:67 (Cobblestone Stairs), Data:6
+ID:67 (Cobblestone Stairs), Data:6
+ID:67 (Cobblestone Stairs), Data:2
+ID:67 (Cobblestone Stairs), Data:2
+ID:67 (Cobblestone Stairs), Data:2
+ID:67 (Cobblestone Stairs), Data:2
+ID:67 (Cobblestone Stairs), Data:2
+ID:67 (Cobblestone Stairs), Data:5
+ID:67 (Cobblestone Stairs), Data:5
+ID:67 (Cobblestone Stairs), Data:5
+ID:67 (Cobblestone Stairs), Data:5
+ID:67 (Cobblestone Stairs), Data:5
+ID:67 (Cobblestone Stairs), Data:1
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:67 (Cobblestone Stairs), Data:1
+ID:67 (Cobblestone Stairs), Data:1
+ID:67 (Cobblestone Stairs), Data:1
+ID:67 (Cobblestone Stairs), Data:1
+ID:67 (Cobblestone Stairs), Data:1
+ID:67 (Cobblestone Stairs), Data:4
+ID:67 (Cobblestone Stairs), Data:4
+ID:67 (Cobblestone Stairs), Data:4
+ID:67 (Cobblestone Stairs), Data:4
+ID:67 (Cobblestone Stairs), Data:4
+ID:67 (Cobblestone Stairs), Data:0
+ID:67 (Cobblestone Stairs), Data:0
+ID:67 (Cobblestone Stairs), Data:0
+ID:67 (Cobblestone Stairs), Data:0
+ID:67 (Cobblestone Stairs), Data:0
+ID:68 (Wall Sign), Data:2
+ID:68 (Wall Sign), Data:3
+ID:68 (Wall Sign), Data:4
+ID:68 (Wall Sign), Data:5
+ID:69 (Lever), Data:8
+ID:69 (Lever), Data:0
+ID:69 (Lever), Data:9
+ID:69 (Lever), Data:1
+ID:69 (Lever), Data:10
+ID:69 (Lever), Data:2
+ID:69 (Lever), Data:11
+ID:69 (Lever), Data:3
+ID:69 (Lever), Data:12
+ID:69 (Lever), Data:4
+ID:69 (Lever), Data:13
+ID:69 (Lever), Data:5
+ID:69 (Lever), Data:14
+ID:69 (Lever), Data:6
+ID:69 (Lever), Data:15
+Data value '0x000F' not recognised for block 'Lever' at 65,67
+ID:69 (Lever), Data:7
+Data value '0x0007' not recognised for block 'Lever' at 65,69
+ID:70 (Stone Pressure Plate), Data:1
+ID:70 (Stone Pressure Plate), Data:0
+ID:71 (Iron Door), Data:10
+ID:71 (Iron Door), Data:8
+ID:71 (Iron Door), Data:10
+ID:71 (Iron Door), Data:8
+ID:71 (Iron Door), Data:11
+ID:71 (Iron Door), Data:9
+ID:71 (Iron Door), Data:11
+ID:71 (Iron Door), Data:9
+ID:71 (Iron Door), Data:7
+ID:71 (Iron Door), Data:7
+ID:71 (Iron Door), Data:3
+ID:71 (Iron Door), Data:3
+ID:71 (Iron Door), Data:7
+ID:71 (Iron Door), Data:7
+ID:71 (Iron Door), Data:3
+ID:71 (Iron Door), Data:3
+ID:71 (Iron Door), Data:10
+ID:71 (Iron Door), Data:8
+ID:71 (Iron Door), Data:10
+ID:71 (Iron Door), Data:8
+ID:71 (Iron Door), Data:11
+ID:71 (Iron Door), Data:9
+ID:71 (Iron Door), Data:11
+ID:71 (Iron Door), Data:9
+ID:71 (Iron Door), Data:5
+ID:71 (Iron Door), Data:5
+ID:71 (Iron Door), Data:1
+ID:71 (Iron Door), Data:1
+ID:71 (Iron Door), Data:5
+ID:71 (Iron Door), Data:5
+ID:71 (Iron Door), Data:1
+ID:71 (Iron Door), Data:1
+ID:71 (Iron Door), Data:10
+ID:71 (Iron Door), Data:8
+ID:71 (Iron Door), Data:10
+ID:71 (Iron Door), Data:8
+ID:71 (Iron Door), Data:11
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:71 (Iron Door), Data:11
+ID:71 (Iron Door), Data:9
+ID:71 (Iron Door), Data:11
+ID:71 (Iron Door), Data:9
+ID:71 (Iron Door), Data:6
+ID:71 (Iron Door), Data:6
+ID:71 (Iron Door), Data:2
+ID:71 (Iron Door), Data:2
+ID:71 (Iron Door), Data:6
+ID:71 (Iron Door), Data:6
+ID:71 (Iron Door), Data:2
+ID:71 (Iron Door), Data:2
+ID:71 (Iron Door), Data:10
+ID:71 (Iron Door), Data:8
+ID:71 (Iron Door), Data:10
+ID:71 (Iron Door), Data:8
+ID:71 (Iron Door), Data:11
+ID:71 (Iron Door), Data:9
+ID:71 (Iron Door), Data:11
+ID:71 (Iron Door), Data:9
+ID:71 (Iron Door), Data:4
+ID:71 (Iron Door), Data:4
+ID:71 (Iron Door), Data:0
+ID:71 (Iron Door), Data:0
+ID:71 (Iron Door), Data:4
+ID:71 (Iron Door), Data:4
+ID:71 (Iron Door), Data:0
+ID:71 (Iron Door), Data:0
+ID:72 (Wooden Pressure Plate), Data:1
+ID:72 (Wooden Pressure Plate), Data:0
+ID:73 (Redstone Ore), Data:0
+ID:74 (Glowing Redstone Ore), Data:0
+ID:75 (Redstone Torch (Off)), Data:5
+ID:75 (Redstone Torch (Off)), Data:4
+ID:75 (Redstone Torch (Off)), Data:3
+ID:75 (Redstone Torch (Off)), Data:2
+ID:75 (Redstone Torch (Off)), Data:1
+ID:76 (Redstone Torch (On)), Data:5
+ID:76 (Redstone Torch (On)), Data:4
+ID:76 (Redstone Torch (On)), Data:3
+ID:76 (Redstone Torch (On)), Data:2
+ID:76 (Redstone Torch (On)), Data:1
+ID:77 (Stone Button), Data:8
+Data value '0x0008' not recognised for block 'Stone Button' at 67,85
+ID:77 (Stone Button), Data:0
+Data value '0x0000' not recognised for block 'Stone Button' at 67,87
+ID:77 (Stone Button), Data:13
+Data value '0x000D' not recognised for block 'Stone Button' at 67,89
+ID:77 (Stone Button), Data:5
+Data value '0x0005' not recognised for block 'Stone Button' at 67,91
+ID:77 (Stone Button), Data:12
+ID:77 (Stone Button), Data:4
+ID:77 (Stone Button), Data:11
+ID:77 (Stone Button), Data:3
+ID:77 (Stone Button), Data:10
+ID:77 (Stone Button), Data:2
+ID:77 (Stone Button), Data:9
+ID:77 (Stone Button), Data:1
+ID:78 (Snow), Data:0
+ID:78 (Snow), Data:1
+ID:78 (Snow), Data:2
+ID:78 (Snow), Data:3
+ID:78 (Snow), Data:4
+ID:78 (Snow), Data:5
+ID:78 (Snow), Data:6
+ID:78 (Snow), Data:7
+ID:79 (Ice), Data:0
+ID:80 (Snow Block), Data:0
+ID:81 (Cactus), Data:0
+ID:81 (Cactus), Data:1
+ID:81 (Cactus), Data:2
+ID:81 (Cactus), Data:3
+ID:81 (Cactus), Data:4
+ID:81 (Cactus), Data:5
+ID:81 (Cactus), Data:6
+Data value '0x0006' not recognised for block 'Cactus' at 67,141
+ID:81 (Cactus), Data:7
+Data value '0x0007' not recognised for block 'Cactus' at 67,143
+ID:81 (Cactus), Data:8
+Data value '0x0008' not recognised for block 'Cactus' at 67,145
+ID:81 (Cactus), Data:9
+Data value '0x0009' not recognised for block 'Cactus' at 67,147
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:81 (Cactus), Data:9
+Data value '0x0009' not recognised for block 'Cactus' at 69,1
+ID:81 (Cactus), Data:10
+Data value '0x000A' not recognised for block 'Cactus' at 69,3
+ID:81 (Cactus), Data:11
+Data value '0x000B' not recognised for block 'Cactus' at 69,5
+ID:81 (Cactus), Data:12
+Data value '0x000C' not recognised for block 'Cactus' at 69,7
+ID:81 (Cactus), Data:13
+Data value '0x000D' not recognised for block 'Cactus' at 69,9
+ID:81 (Cactus), Data:14
+Data value '0x000E' not recognised for block 'Cactus' at 69,11
+ID:81 (Cactus), Data:15
+Data value '0x000F' not recognised for block 'Cactus' at 69,13
+ID:82 (Clay Block), Data:0
+ID:83 (Sugar Cane), Data:0
+ID:83 (Sugar Cane), Data:1
+ID:83 (Sugar Cane), Data:2
+ID:83 (Sugar Cane), Data:3
+ID:83 (Sugar Cane), Data:4
+ID:83 (Sugar Cane), Data:5
+ID:83 (Sugar Cane), Data:6
+ID:83 (Sugar Cane), Data:7
+ID:83 (Sugar Cane), Data:8
+ID:83 (Sugar Cane), Data:9
+ID:83 (Sugar Cane), Data:10
+ID:83 (Sugar Cane), Data:11
+ID:83 (Sugar Cane), Data:12
+ID:83 (Sugar Cane), Data:13
+ID:83 (Sugar Cane), Data:14
+ID:83 (Sugar Cane), Data:15
+ID:84 (Jukebox), Data:1
+ID:84 (Jukebox), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:85 (Fence), Data:0
+ID:86 (Pumpkin), Data:2
+ID:86 (Pumpkin), Data:0
+ID:86 (Pumpkin), Data:1
+ID:86 (Pumpkin), Data:3
+ID:87 (Netherrack), Data:0
+ID:88 (Soul Sand), Data:0
+ID:89 (Glowstone Block), Data:0
+ID:90 (Portal), Data:1
+ID:90 (Portal), Data:2
+ID:91 (Jack-O-Lantern), Data:2
+ID:91 (Jack-O-Lantern), Data:0
+ID:91 (Jack-O-Lantern), Data:1
+ID:91 (Jack-O-Lantern), Data:3
+ID:92 (Cake Block), Data:0
+ID:92 (Cake Block), Data:1
+ID:92 (Cake Block), Data:2
+ID:92 (Cake Block), Data:3
+ID:92 (Cake Block), Data:4
+ID:92 (Cake Block), Data:5
+ID:92 (Cake Block), Data:6
+ID:93 (Redstone Repeater (Off)), Data:2
+ID:93 (Redstone Repeater (Off)), Data:2
+ID:93 (Redstone Repeater (Off)), Data:0
+ID:93 (Redstone Repeater (Off)), Data:0
+ID:93 (Redstone Repeater (Off)), Data:1
+ID:93 (Redstone Repeater (Off)), Data:1
+ID:93 (Redstone Repeater (Off)), Data:3
+ID:93 (Redstone Repeater (Off)), Data:3
+ID:93 (Redstone Repeater (Off)), Data:6
+ID:93 (Redstone Repeater (Off)), Data:6
+ID:93 (Redstone Repeater (Off)), Data:4
+ID:93 (Redstone Repeater (Off)), Data:4
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:93 (Redstone Repeater (Off)), Data:4
+ID:93 (Redstone Repeater (Off)), Data:5
+ID:93 (Redstone Repeater (Off)), Data:5
+ID:93 (Redstone Repeater (Off)), Data:7
+ID:93 (Redstone Repeater (Off)), Data:7
+ID:93 (Redstone Repeater (Off)), Data:10
+ID:93 (Redstone Repeater (Off)), Data:10
+ID:93 (Redstone Repeater (Off)), Data:8
+ID:93 (Redstone Repeater (Off)), Data:8
+ID:93 (Redstone Repeater (Off)), Data:9
+ID:93 (Redstone Repeater (Off)), Data:9
+ID:93 (Redstone Repeater (Off)), Data:11
+ID:93 (Redstone Repeater (Off)), Data:11
+ID:93 (Redstone Repeater (Off)), Data:14
+ID:93 (Redstone Repeater (Off)), Data:14
+ID:93 (Redstone Repeater (Off)), Data:12
+ID:93 (Redstone Repeater (Off)), Data:12
+ID:93 (Redstone Repeater (Off)), Data:13
+ID:93 (Redstone Repeater (Off)), Data:13
+ID:93 (Redstone Repeater (Off)), Data:15
+ID:93 (Redstone Repeater (Off)), Data:15
+ID:94 (Redstone Repeater (On)), Data:2
+ID:94 (Redstone Repeater (On)), Data:2
+ID:94 (Redstone Repeater (On)), Data:0
+ID:94 (Redstone Repeater (On)), Data:0
+ID:94 (Redstone Repeater (On)), Data:1
+ID:94 (Redstone Repeater (On)), Data:1
+ID:94 (Redstone Repeater (On)), Data:3
+ID:94 (Redstone Repeater (On)), Data:3
+ID:94 (Redstone Repeater (On)), Data:6
+ID:94 (Redstone Repeater (On)), Data:6
+ID:94 (Redstone Repeater (On)), Data:4
+ID:94 (Redstone Repeater (On)), Data:4
+ID:94 (Redstone Repeater (On)), Data:5
+ID:94 (Redstone Repeater (On)), Data:5
+ID:94 (Redstone Repeater (On)), Data:7
+ID:94 (Redstone Repeater (On)), Data:7
+ID:94 (Redstone Repeater (On)), Data:10
+ID:94 (Redstone Repeater (On)), Data:10
+ID:94 (Redstone Repeater (On)), Data:8
+ID:94 (Redstone Repeater (On)), Data:8
+ID:94 (Redstone Repeater (On)), Data:9
+ID:94 (Redstone Repeater (On)), Data:9
+ID:94 (Redstone Repeater (On)), Data:11
+ID:94 (Redstone Repeater (On)), Data:11
+ID:94 (Redstone Repeater (On)), Data:14
+ID:94 (Redstone Repeater (On)), Data:14
+ID:94 (Redstone Repeater (On)), Data:12
+ID:94 (Redstone Repeater (On)), Data:12
+ID:94 (Redstone Repeater (On)), Data:13
+ID:94 (Redstone Repeater (On)), Data:13
+ID:94 (Redstone Repeater (On)), Data:15
+ID:94 (Redstone Repeater (On)), Data:15
+ID:95 (Stained Glass), Data:0
+ID:95 (Stained Glass), Data:1
+ID:95 (Stained Glass), Data:2
+ID:95 (Stained Glass), Data:3
+ID:95 (Stained Glass), Data:4
+ID:95 (Stained Glass), Data:5
+ID:95 (Stained Glass), Data:6
+ID:95 (Stained Glass), Data:7
+ID:95 (Stained Glass), Data:8
+ID:95 (Stained Glass), Data:9
+ID:95 (Stained Glass), Data:10
+ID:95 (Stained Glass), Data:11
+ID:95 (Stained Glass), Data:12
+ID:95 (Stained Glass), Data:13
+ID:95 (Stained Glass), Data:14
+ID:95 (Stained Glass), Data:15
+ID:96 (Trapdoor), Data:12
+Data value '0x000C' not recognised for block 'Trapdoor' at 71,139
+ID:96 (Trapdoor), Data:8
+Data value '0x0008' not recognised for block 'Trapdoor' at 71,141
+ID:96 (Trapdoor), Data:4
+ID:96 (Trapdoor), Data:0
+ID:96 (Trapdoor), Data:13
+Data value '0x000D' not recognised for block 'Trapdoor' at 71,147
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:96 (Trapdoor), Data:13
+Data value '0x000D' not recognised for block 'Trapdoor' at 73,1
+ID:96 (Trapdoor), Data:9
+Data value '0x0009' not recognised for block 'Trapdoor' at 73,3
+ID:96 (Trapdoor), Data:5
+ID:96 (Trapdoor), Data:1
+ID:96 (Trapdoor), Data:14
+Data value '0x000E' not recognised for block 'Trapdoor' at 73,9
+ID:96 (Trapdoor), Data:10
+Data value '0x000A' not recognised for block 'Trapdoor' at 73,11
+ID:96 (Trapdoor), Data:6
+ID:96 (Trapdoor), Data:2
+ID:96 (Trapdoor), Data:15
+Data value '0x000F' not recognised for block 'Trapdoor' at 73,17
+ID:96 (Trapdoor), Data:11
+Data value '0x000B' not recognised for block 'Trapdoor' at 73,19
+ID:96 (Trapdoor), Data:7
+ID:96 (Trapdoor), Data:3
+ID:97 (Stone with Silverfish), Data:0
+ID:97 (Stone with Silverfish), Data:1
+ID:97 (Stone with Silverfish), Data:2
+ID:97 (Stone with Silverfish), Data:3
+Data value '0x0003' not recognised for block 'Stone with Silverfish' at 73,31
+ID:97 (Stone with Silverfish), Data:4
+Data value '0x0004' not recognised for block 'Stone with Silverfish' at 73,33
+ID:97 (Stone with Silverfish), Data:5
+Data value '0x0005' not recognised for block 'Stone with Silverfish' at 73,35
+ID:98 (Stone Brick), Data:0
+ID:98 (Stone Brick), Data:1
+ID:98 (Stone Brick), Data:2
+ID:98 (Stone Brick), Data:3
+Data value '0x0003' not recognised for block 'Stone Brick' at 73,43
+ID:99 (Huge Red Mushroom), Data:1
+ID:99 (Huge Red Mushroom), Data:2
+ID:99 (Huge Red Mushroom), Data:3
+ID:99 (Huge Red Mushroom), Data:4
+ID:99 (Huge Red Mushroom), Data:5
+ID:99 (Huge Red Mushroom), Data:6
+ID:99 (Huge Red Mushroom), Data:7
+ID:99 (Huge Red Mushroom), Data:8
+ID:99 (Huge Red Mushroom), Data:9
+ID:99 (Huge Red Mushroom), Data:10
+ID:99 (Huge Red Mushroom), Data:0
+ID:99 (Huge Red Mushroom), Data:14
+Data value '0x000E' not recognised for block 'Huge Red Mushroom' at 73,67
+ID:99 (Huge Red Mushroom), Data:15
+Data value '0x000F' not recognised for block 'Huge Red Mushroom' at 73,69
+ID:100 (Huge Brown Mushroom), Data:1
+ID:100 (Huge Brown Mushroom), Data:2
+ID:100 (Huge Brown Mushroom), Data:3
+ID:100 (Huge Brown Mushroom), Data:4
+ID:100 (Huge Brown Mushroom), Data:5
+ID:100 (Huge Brown Mushroom), Data:6
+ID:100 (Huge Brown Mushroom), Data:7
+ID:100 (Huge Brown Mushroom), Data:8
+ID:100 (Huge Brown Mushroom), Data:9
+ID:100 (Huge Brown Mushroom), Data:10
+ID:100 (Huge Brown Mushroom), Data:0
+ID:100 (Huge Brown Mushroom), Data:14
+Data value '0x000E' not recognised for block 'Huge Brown Mushroom' at 73,93
+ID:100 (Huge Brown Mushroom), Data:15
+Data value '0x000F' not recognised for block 'Huge Brown Mushroom' at 73,95
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:101 (Iron Bars), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:102 (Glass Pane), Data:0
+ID:103 (Melon), Data:0
+ID:104 (Pumpkin Stem), Data:0
+ID:104 (Pumpkin Stem), Data:0
+ID:104 (Pumpkin Stem), Data:0
+ID:104 (Pumpkin Stem), Data:0
+ID:104 (Pumpkin Stem), Data:0
+ID:104 (Pumpkin Stem), Data:1
+ID:104 (Pumpkin Stem), Data:1
+ID:104 (Pumpkin Stem), Data:1
+ID:104 (Pumpkin Stem), Data:1
+ID:104 (Pumpkin Stem), Data:1
+ID:104 (Pumpkin Stem), Data:2
+ID:104 (Pumpkin Stem), Data:2
+ID:104 (Pumpkin Stem), Data:2
+ID:104 (Pumpkin Stem), Data:2
+ID:104 (Pumpkin Stem), Data:2
+ID:104 (Pumpkin Stem), Data:3
+ID:104 (Pumpkin Stem), Data:3
+ID:104 (Pumpkin Stem), Data:3
+ID:104 (Pumpkin Stem), Data:3
+ID:104 (Pumpkin Stem), Data:3
+ID:104 (Pumpkin Stem), Data:4
+ID:104 (Pumpkin Stem), Data:4
+ID:104 (Pumpkin Stem), Data:4
+ID:104 (Pumpkin Stem), Data:4
+ID:104 (Pumpkin Stem), Data:4
+ID:104 (Pumpkin Stem), Data:5
+ID:104 (Pumpkin Stem), Data:5
+ID:104 (Pumpkin Stem), Data:5
+ID:104 (Pumpkin Stem), Data:5
+ID:104 (Pumpkin Stem), Data:5
+ID:104 (Pumpkin Stem), Data:6
+ID:104 (Pumpkin Stem), Data:6
+ID:104 (Pumpkin Stem), Data:6
+ID:104 (Pumpkin Stem), Data:6
+ID:104 (Pumpkin Stem), Data:6
+ID:104 (Pumpkin Stem), Data:7
+ID:104 (Pumpkin Stem), Data:7
+ID:104 (Pumpkin Stem), Data:7
+ID:104 (Pumpkin Stem), Data:7
+ID:104 (Pumpkin Stem), Data:7
+ID:105 (Melon Stem), Data:0
+ID:105 (Melon Stem), Data:0
+ID:105 (Melon Stem), Data:0
+ID:105 (Melon Stem), Data:0
+ID:105 (Melon Stem), Data:0
+ID:105 (Melon Stem), Data:1
+ID:105 (Melon Stem), Data:1
+ID:105 (Melon Stem), Data:1
+ID:105 (Melon Stem), Data:1
+ID:105 (Melon Stem), Data:1
+ID:105 (Melon Stem), Data:2
+ID:105 (Melon Stem), Data:2
+ID:105 (Melon Stem), Data:2
+ID:105 (Melon Stem), Data:2
+ID:105 (Melon Stem), Data:2
+ID:105 (Melon Stem), Data:3
+ID:105 (Melon Stem), Data:3
+ID:105 (Melon Stem), Data:3
+ID:105 (Melon Stem), Data:3
+ID:105 (Melon Stem), Data:3
+ID:105 (Melon Stem), Data:4
+ID:105 (Melon Stem), Data:4
+ID:105 (Melon Stem), Data:4
+ID:105 (Melon Stem), Data:4
+ID:105 (Melon Stem), Data:4
+ID:105 (Melon Stem), Data:5
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:105 (Melon Stem), Data:5
+ID:105 (Melon Stem), Data:5
+ID:105 (Melon Stem), Data:5
+ID:105 (Melon Stem), Data:5
+ID:105 (Melon Stem), Data:5
+ID:105 (Melon Stem), Data:6
+ID:105 (Melon Stem), Data:6
+ID:105 (Melon Stem), Data:6
+ID:105 (Melon Stem), Data:6
+ID:105 (Melon Stem), Data:6
+ID:105 (Melon Stem), Data:7
+ID:105 (Melon Stem), Data:7
+ID:105 (Melon Stem), Data:7
+ID:105 (Melon Stem), Data:7
+ID:105 (Melon Stem), Data:7
+ID:106 (Vines), Data:15
+ID:106 (Vines), Data:13
+ID:106 (Vines), Data:15
+ID:106 (Vines), Data:13
+ID:106 (Vines), Data:14
+ID:106 (Vines), Data:12
+ID:106 (Vines), Data:14
+ID:106 (Vines), Data:12
+ID:106 (Vines), Data:11
+ID:106 (Vines), Data:9
+ID:106 (Vines), Data:11
+ID:106 (Vines), Data:9
+ID:106 (Vines), Data:10
+ID:106 (Vines), Data:8
+ID:106 (Vines), Data:10
+ID:106 (Vines), Data:8
+ID:106 (Vines), Data:7
+ID:106 (Vines), Data:5
+ID:106 (Vines), Data:7
+ID:106 (Vines), Data:5
+ID:106 (Vines), Data:6
+ID:106 (Vines), Data:4
+ID:106 (Vines), Data:6
+ID:106 (Vines), Data:4
+ID:106 (Vines), Data:3
+ID:106 (Vines), Data:1
+ID:106 (Vines), Data:3
+ID:106 (Vines), Data:1
+ID:106 (Vines), Data:2
+ID:106 (Vines), Data:0
+ID:106 (Vines), Data:2
+ID:106 (Vines), Data:0
+ID:107 (Fence Gate), Data:14
+Data value '0x000E' not recognised for block 'Fence Gate' at 77,95
+ID:107 (Fence Gate), Data:6
+ID:107 (Fence Gate), Data:10
+Data value '0x000A' not recognised for block 'Fence Gate' at 77,99
+ID:107 (Fence Gate), Data:2
+ID:107 (Fence Gate), Data:14
+Data value '0x000E' not recognised for block 'Fence Gate' at 77,103
+ID:107 (Fence Gate), Data:6
+ID:107 (Fence Gate), Data:10
+Data value '0x000A' not recognised for block 'Fence Gate' at 77,107
+ID:107 (Fence Gate), Data:2
+ID:107 (Fence Gate), Data:12
+Data value '0x000C' not recognised for block 'Fence Gate' at 77,111
+ID:107 (Fence Gate), Data:4
+ID:107 (Fence Gate), Data:8
+Data value '0x0008' not recognised for block 'Fence Gate' at 77,115
+ID:107 (Fence Gate), Data:0
+ID:107 (Fence Gate), Data:12
+Data value '0x000C' not recognised for block 'Fence Gate' at 77,119
+ID:107 (Fence Gate), Data:4
+ID:107 (Fence Gate), Data:8
+Data value '0x0008' not recognised for block 'Fence Gate' at 77,123
+ID:107 (Fence Gate), Data:0
+ID:107 (Fence Gate), Data:13
+Data value '0x000D' not recognised for block 'Fence Gate' at 77,127
+ID:107 (Fence Gate), Data:5
+ID:107 (Fence Gate), Data:9
+Data value '0x0009' not recognised for block 'Fence Gate' at 77,131
+ID:107 (Fence Gate), Data:1
+ID:107 (Fence Gate), Data:13
+Data value '0x000D' not recognised for block 'Fence Gate' at 77,135
+ID:107 (Fence Gate), Data:5
+ID:107 (Fence Gate), Data:9
+Data value '0x0009' not recognised for block 'Fence Gate' at 77,139
+ID:107 (Fence Gate), Data:1
+ID:107 (Fence Gate), Data:15
+Data value '0x000F' not recognised for block 'Fence Gate' at 77,143
+ID:107 (Fence Gate), Data:7
+ID:107 (Fence Gate), Data:11
+Data value '0x000B' not recognised for block 'Fence Gate' at 77,147
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:107 (Fence Gate), Data:11
+Data value '0x000B' not recognised for block 'Fence Gate' at 79,1
+ID:107 (Fence Gate), Data:3
+ID:107 (Fence Gate), Data:15
+Data value '0x000F' not recognised for block 'Fence Gate' at 79,5
+ID:107 (Fence Gate), Data:7
+ID:107 (Fence Gate), Data:11
+Data value '0x000B' not recognised for block 'Fence Gate' at 79,9
+ID:107 (Fence Gate), Data:3
+ID:108 (Brick Stairs), Data:7
+ID:108 (Brick Stairs), Data:7
+ID:108 (Brick Stairs), Data:7
+ID:108 (Brick Stairs), Data:7
+ID:108 (Brick Stairs), Data:7
+ID:108 (Brick Stairs), Data:3
+ID:108 (Brick Stairs), Data:3
+ID:108 (Brick Stairs), Data:3
+ID:108 (Brick Stairs), Data:3
+ID:108 (Brick Stairs), Data:3
+ID:108 (Brick Stairs), Data:6
+ID:108 (Brick Stairs), Data:6
+ID:108 (Brick Stairs), Data:6
+ID:108 (Brick Stairs), Data:6
+ID:108 (Brick Stairs), Data:6
+ID:108 (Brick Stairs), Data:2
+ID:108 (Brick Stairs), Data:2
+ID:108 (Brick Stairs), Data:2
+ID:108 (Brick Stairs), Data:2
+ID:108 (Brick Stairs), Data:2
+ID:108 (Brick Stairs), Data:5
+ID:108 (Brick Stairs), Data:5
+ID:108 (Brick Stairs), Data:5
+ID:108 (Brick Stairs), Data:5
+ID:108 (Brick Stairs), Data:5
+ID:108 (Brick Stairs), Data:1
+ID:108 (Brick Stairs), Data:1
+ID:108 (Brick Stairs), Data:1
+ID:108 (Brick Stairs), Data:1
+ID:108 (Brick Stairs), Data:1
+ID:108 (Brick Stairs), Data:4
+ID:108 (Brick Stairs), Data:4
+ID:108 (Brick Stairs), Data:4
+ID:108 (Brick Stairs), Data:4
+ID:108 (Brick Stairs), Data:4
+ID:108 (Brick Stairs), Data:0
+ID:108 (Brick Stairs), Data:0
+ID:108 (Brick Stairs), Data:0
+ID:108 (Brick Stairs), Data:0
+ID:108 (Brick Stairs), Data:0
+ID:109 (Stone Brick Stairs), Data:7
+ID:109 (Stone Brick Stairs), Data:7
+ID:109 (Stone Brick Stairs), Data:7
+ID:109 (Stone Brick Stairs), Data:7
+ID:109 (Stone Brick Stairs), Data:7
+ID:109 (Stone Brick Stairs), Data:3
+ID:109 (Stone Brick Stairs), Data:3
+ID:109 (Stone Brick Stairs), Data:3
+ID:109 (Stone Brick Stairs), Data:3
+ID:109 (Stone Brick Stairs), Data:3
+ID:109 (Stone Brick Stairs), Data:6
+ID:109 (Stone Brick Stairs), Data:6
+ID:109 (Stone Brick Stairs), Data:6
+ID:109 (Stone Brick Stairs), Data:6
+ID:109 (Stone Brick Stairs), Data:6
+ID:109 (Stone Brick Stairs), Data:2
+ID:109 (Stone Brick Stairs), Data:2
+ID:109 (Stone Brick Stairs), Data:2
+ID:109 (Stone Brick Stairs), Data:2
+ID:109 (Stone Brick Stairs), Data:2
+ID:109 (Stone Brick Stairs), Data:5
+ID:109 (Stone Brick Stairs), Data:5
+ID:109 (Stone Brick Stairs), Data:5
+ID:109 (Stone Brick Stairs), Data:5
+ID:109 (Stone Brick Stairs), Data:5
+ID:109 (Stone Brick Stairs), Data:1
+ID:109 (Stone Brick Stairs), Data:1
+ID:109 (Stone Brick Stairs), Data:1
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:109 (Stone Brick Stairs), Data:1
+ID:109 (Stone Brick Stairs), Data:1
+ID:109 (Stone Brick Stairs), Data:1
+ID:109 (Stone Brick Stairs), Data:4
+ID:109 (Stone Brick Stairs), Data:4
+ID:109 (Stone Brick Stairs), Data:4
+ID:109 (Stone Brick Stairs), Data:4
+ID:109 (Stone Brick Stairs), Data:4
+ID:109 (Stone Brick Stairs), Data:0
+ID:109 (Stone Brick Stairs), Data:0
+ID:109 (Stone Brick Stairs), Data:0
+ID:109 (Stone Brick Stairs), Data:0
+ID:109 (Stone Brick Stairs), Data:0
+ID:110 (Mycelium), Data:0
+ID:110 (Mycelium), Data:0
+ID:111 (Lilly Pad), Data:0
+ID:112 (Nether Brick), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:113 (Nether Brick Fence), Data:0
+ID:114 (Nether Brick Stairs), Data:7
+ID:114 (Nether Brick Stairs), Data:7
+ID:114 (Nether Brick Stairs), Data:7
+ID:114 (Nether Brick Stairs), Data:7
+ID:114 (Nether Brick Stairs), Data:7
+ID:114 (Nether Brick Stairs), Data:3
+ID:114 (Nether Brick Stairs), Data:3
+ID:114 (Nether Brick Stairs), Data:3
+ID:114 (Nether Brick Stairs), Data:3
+ID:114 (Nether Brick Stairs), Data:3
+ID:114 (Nether Brick Stairs), Data:6
+ID:114 (Nether Brick Stairs), Data:6
+ID:114 (Nether Brick Stairs), Data:6
+ID:114 (Nether Brick Stairs), Data:6
+ID:114 (Nether Brick Stairs), Data:6
+ID:114 (Nether Brick Stairs), Data:2
+ID:114 (Nether Brick Stairs), Data:2
+ID:114 (Nether Brick Stairs), Data:2
+ID:114 (Nether Brick Stairs), Data:2
+ID:114 (Nether Brick Stairs), Data:2
+ID:114 (Nether Brick Stairs), Data:5
+ID:114 (Nether Brick Stairs), Data:5
+ID:114 (Nether Brick Stairs), Data:5
+ID:114 (Nether Brick Stairs), Data:5
+ID:114 (Nether Brick Stairs), Data:5
+ID:114 (Nether Brick Stairs), Data:1
+ID:114 (Nether Brick Stairs), Data:1
+ID:114 (Nether Brick Stairs), Data:1
+ID:114 (Nether Brick Stairs), Data:1
+ID:114 (Nether Brick Stairs), Data:1
+ID:114 (Nether Brick Stairs), Data:4
+ID:114 (Nether Brick Stairs), Data:4
+ID:114 (Nether Brick Stairs), Data:4
+ID:114 (Nether Brick Stairs), Data:4
+ID:114 (Nether Brick Stairs), Data:4
+ID:114 (Nether Brick Stairs), Data:0
+ID:114 (Nether Brick Stairs), Data:0
+ID:114 (Nether Brick Stairs), Data:0
+ID:114 (Nether Brick Stairs), Data:0
+ID:114 (Nether Brick Stairs), Data:0
+ID:115 (Nether Wart), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:115 (Nether Wart), Data:0
+ID:115 (Nether Wart), Data:1
+ID:115 (Nether Wart), Data:2
+ID:115 (Nether Wart), Data:3
+ID:116 (Enchantment Table), Data:0
+ID:117 (Brewing Stand), Data:7
+ID:117 (Brewing Stand), Data:3
+ID:117 (Brewing Stand), Data:5
+ID:117 (Brewing Stand), Data:1
+ID:117 (Brewing Stand), Data:6
+ID:117 (Brewing Stand), Data:2
+ID:117 (Brewing Stand), Data:4
+ID:117 (Brewing Stand), Data:0
+ID:118 (Cauldron), Data:0
+ID:118 (Cauldron), Data:1
+ID:118 (Cauldron), Data:2
+ID:118 (Cauldron), Data:3
+ID:119 (End Portal), Data:0
+ID:120 (End Portal Frame), Data:6
+ID:120 (End Portal Frame), Data:4
+ID:120 (End Portal Frame), Data:5
+ID:120 (End Portal Frame), Data:7
+ID:120 (End Portal Frame), Data:2
+ID:120 (End Portal Frame), Data:0
+ID:120 (End Portal Frame), Data:1
+ID:120 (End Portal Frame), Data:3
+ID:121 (End Stone), Data:0
+ID:122 (Dragon Egg), Data:0
+ID:123 (Redstone Lamp (Off)), Data:0
+ID:124 (Redstone Lamp (On)), Data:0
+ID:125 (Double Wood Slab), Data:0
+ID:125 (Double Wood Slab), Data:1
+ID:125 (Double Wood Slab), Data:2
+ID:125 (Double Wood Slab), Data:3
+ID:125 (Double Wood Slab), Data:4
+ID:125 (Double Wood Slab), Data:5
+ID:126 (Wood Slab), Data:8
+Data value '0x0008' not recognised for block 'Wood Slab' at 83,73
+ID:126 (Wood Slab), Data:9
+Data value '0x0009' not recognised for block 'Wood Slab' at 83,75
+ID:126 (Wood Slab), Data:10
+Data value '0x000A' not recognised for block 'Wood Slab' at 83,77
+ID:126 (Wood Slab), Data:11
+Data value '0x000B' not recognised for block 'Wood Slab' at 83,79
+ID:126 (Wood Slab), Data:12
+Data value '0x000C' not recognised for block 'Wood Slab' at 83,81
+ID:126 (Wood Slab), Data:13
+Data value '0x000D' not recognised for block 'Wood Slab' at 83,83
+ID:126 (Wood Slab), Data:0
+ID:126 (Wood Slab), Data:1
+ID:126 (Wood Slab), Data:2
+ID:126 (Wood Slab), Data:3
+ID:126 (Wood Slab), Data:4
+ID:126 (Wood Slab), Data:5
+ID:127 (Cocoa Plant), Data:2
+ID:127 (Cocoa Plant), Data:0
+ID:127 (Cocoa Plant), Data:1
+ID:127 (Cocoa Plant), Data:3
+ID:127 (Cocoa Plant), Data:6
+ID:127 (Cocoa Plant), Data:4
+ID:127 (Cocoa Plant), Data:5
+ID:127 (Cocoa Plant), Data:7
+ID:127 (Cocoa Plant), Data:10
+ID:127 (Cocoa Plant), Data:8
+ID:127 (Cocoa Plant), Data:9
+ID:127 (Cocoa Plant), Data:11
+ID:128 (Sandstone Stairs), Data:7
+ID:128 (Sandstone Stairs), Data:7
+ID:128 (Sandstone Stairs), Data:7
+ID:128 (Sandstone Stairs), Data:7
+ID:128 (Sandstone Stairs), Data:7
+ID:128 (Sandstone Stairs), Data:3
+ID:128 (Sandstone Stairs), Data:3
+ID:128 (Sandstone Stairs), Data:3
+ID:128 (Sandstone Stairs), Data:3
+ID:128 (Sandstone Stairs), Data:3
+ID:128 (Sandstone Stairs), Data:6
+ID:128 (Sandstone Stairs), Data:6
+ID:128 (Sandstone Stairs), Data:6
+ID:128 (Sandstone Stairs), Data:6
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:128 (Sandstone Stairs), Data:6
+ID:128 (Sandstone Stairs), Data:6
+ID:128 (Sandstone Stairs), Data:2
+ID:128 (Sandstone Stairs), Data:2
+ID:128 (Sandstone Stairs), Data:2
+ID:128 (Sandstone Stairs), Data:2
+ID:128 (Sandstone Stairs), Data:2
+ID:128 (Sandstone Stairs), Data:5
+ID:128 (Sandstone Stairs), Data:5
+ID:128 (Sandstone Stairs), Data:5
+ID:128 (Sandstone Stairs), Data:5
+ID:128 (Sandstone Stairs), Data:5
+ID:128 (Sandstone Stairs), Data:1
+ID:128 (Sandstone Stairs), Data:1
+ID:128 (Sandstone Stairs), Data:1
+ID:128 (Sandstone Stairs), Data:1
+ID:128 (Sandstone Stairs), Data:1
+ID:128 (Sandstone Stairs), Data:4
+ID:128 (Sandstone Stairs), Data:4
+ID:128 (Sandstone Stairs), Data:4
+ID:128 (Sandstone Stairs), Data:4
+ID:128 (Sandstone Stairs), Data:4
+ID:128 (Sandstone Stairs), Data:0
+ID:128 (Sandstone Stairs), Data:0
+ID:128 (Sandstone Stairs), Data:0
+ID:128 (Sandstone Stairs), Data:0
+ID:128 (Sandstone Stairs), Data:0
+ID:129 (Emerald Ore), Data:0
+ID:130 (Ender Chest), Data:2
+ID:130 (Ender Chest), Data:3
+ID:130 (Ender Chest), Data:4
+ID:130 (Ender Chest), Data:5
+ID:131 (Tripwire Hook), Data:14
+ID:131 (Tripwire Hook), Data:6
+ID:131 (Tripwire Hook), Data:12
+ID:131 (Tripwire Hook), Data:4
+ID:131 (Tripwire Hook), Data:13
+ID:131 (Tripwire Hook), Data:5
+ID:131 (Tripwire Hook), Data:15
+ID:131 (Tripwire Hook), Data:7
+ID:131 (Tripwire Hook), Data:10
+ID:131 (Tripwire Hook), Data:2
+ID:131 (Tripwire Hook), Data:8
+ID:131 (Tripwire Hook), Data:0
+ID:131 (Tripwire Hook), Data:9
+ID:131 (Tripwire Hook), Data:1
+ID:131 (Tripwire Hook), Data:11
+ID:131 (Tripwire Hook), Data:3
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:132 (Tripwire), Data:13
+Data value '0x000D' not recognised for block 'Tripwire' at 87,5
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:132 (Tripwire), Data:14
+Data value '0x000E' not recognised for block 'Tripwire' at 87,13
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:132 (Tripwire), Data:7
+Data value '0x0007' not recognised for block 'Tripwire' at 87,69
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:132 (Tripwire), Data:6
+Data value '0x0006' not recognised for block 'Tripwire' at 87,77
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:132 (Tripwire), Data:11
+Data value '0x000B' not recognised for block 'Tripwire' at 87,133
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:132 (Tripwire), Data:10
+Data value '0x000A' not recognised for block 'Tripwire' at 87,141
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:132 (Tripwire), Data:3
+Data value '0x0003' not recognised for block 'Tripwire' at 89,51
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:132 (Tripwire), Data:2
+Data value '0x0002' not recognised for block 'Tripwire' at 89,59
+ID:133 (Emerald Block), Data:0
+ID:134 (Sprice Wood Stairs), Data:7
+ID:134 (Sprice Wood Stairs), Data:7
+ID:134 (Sprice Wood Stairs), Data:7
+ID:134 (Sprice Wood Stairs), Data:7
+ID:134 (Sprice Wood Stairs), Data:7
+ID:134 (Sprice Wood Stairs), Data:3
+ID:134 (Sprice Wood Stairs), Data:3
+ID:134 (Sprice Wood Stairs), Data:3
+ID:134 (Sprice Wood Stairs), Data:3
+ID:134 (Sprice Wood Stairs), Data:3
+ID:134 (Sprice Wood Stairs), Data:6
+ID:134 (Sprice Wood Stairs), Data:6
+ID:134 (Sprice Wood Stairs), Data:6
+ID:134 (Sprice Wood Stairs), Data:6
+ID:134 (Sprice Wood Stairs), Data:6
+ID:134 (Sprice Wood Stairs), Data:2
+ID:134 (Sprice Wood Stairs), Data:2
+ID:134 (Sprice Wood Stairs), Data:2
+ID:134 (Sprice Wood Stairs), Data:2
+ID:134 (Sprice Wood Stairs), Data:2
+ID:134 (Sprice Wood Stairs), Data:5
+ID:134 (Sprice Wood Stairs), Data:5
+ID:134 (Sprice Wood Stairs), Data:5
+ID:134 (Sprice Wood Stairs), Data:5
+ID:134 (Sprice Wood Stairs), Data:5
+ID:134 (Sprice Wood Stairs), Data:1
+ID:134 (Sprice Wood Stairs), Data:1
+ID:134 (Sprice Wood Stairs), Data:1
+ID:134 (Sprice Wood Stairs), Data:1
+ID:134 (Sprice Wood Stairs), Data:1
+ID:134 (Sprice Wood Stairs), Data:4
+ID:134 (Sprice Wood Stairs), Data:4
+ID:134 (Sprice Wood Stairs), Data:4
+ID:134 (Sprice Wood Stairs), Data:4
+ID:134 (Sprice Wood Stairs), Data:4
+ID:134 (Sprice Wood Stairs), Data:0
+ID:134 (Sprice Wood Stairs), Data:0
+ID:134 (Sprice Wood Stairs), Data:0
+ID:134 (Sprice Wood Stairs), Data:0
+ID:134 (Sprice Wood Stairs), Data:0
+ID:135 (Birch Wood Stairs), Data:7
+ID:135 (Birch Wood Stairs), Data:7
+ID:135 (Birch Wood Stairs), Data:7
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:135 (Birch Wood Stairs), Data:7
+ID:135 (Birch Wood Stairs), Data:7
+ID:135 (Birch Wood Stairs), Data:7
+ID:135 (Birch Wood Stairs), Data:3
+ID:135 (Birch Wood Stairs), Data:3
+ID:135 (Birch Wood Stairs), Data:3
+ID:135 (Birch Wood Stairs), Data:3
+ID:135 (Birch Wood Stairs), Data:3
+ID:135 (Birch Wood Stairs), Data:6
+ID:135 (Birch Wood Stairs), Data:6
+ID:135 (Birch Wood Stairs), Data:6
+ID:135 (Birch Wood Stairs), Data:6
+ID:135 (Birch Wood Stairs), Data:6
+ID:135 (Birch Wood Stairs), Data:2
+ID:135 (Birch Wood Stairs), Data:2
+ID:135 (Birch Wood Stairs), Data:2
+ID:135 (Birch Wood Stairs), Data:2
+ID:135 (Birch Wood Stairs), Data:2
+ID:135 (Birch Wood Stairs), Data:5
+ID:135 (Birch Wood Stairs), Data:5
+ID:135 (Birch Wood Stairs), Data:5
+ID:135 (Birch Wood Stairs), Data:5
+ID:135 (Birch Wood Stairs), Data:5
+ID:135 (Birch Wood Stairs), Data:1
+ID:135 (Birch Wood Stairs), Data:1
+ID:135 (Birch Wood Stairs), Data:1
+ID:135 (Birch Wood Stairs), Data:1
+ID:135 (Birch Wood Stairs), Data:1
+ID:135 (Birch Wood Stairs), Data:4
+ID:135 (Birch Wood Stairs), Data:4
+ID:135 (Birch Wood Stairs), Data:4
+ID:135 (Birch Wood Stairs), Data:4
+ID:135 (Birch Wood Stairs), Data:4
+ID:135 (Birch Wood Stairs), Data:0
+ID:135 (Birch Wood Stairs), Data:0
+ID:135 (Birch Wood Stairs), Data:0
+ID:135 (Birch Wood Stairs), Data:0
+ID:135 (Birch Wood Stairs), Data:0
+ID:136 (Jungle Wood Stairs), Data:7
+ID:136 (Jungle Wood Stairs), Data:7
+ID:136 (Jungle Wood Stairs), Data:7
+ID:136 (Jungle Wood Stairs), Data:7
+ID:136 (Jungle Wood Stairs), Data:7
+ID:136 (Jungle Wood Stairs), Data:3
+ID:136 (Jungle Wood Stairs), Data:3
+ID:136 (Jungle Wood Stairs), Data:3
+ID:136 (Jungle Wood Stairs), Data:3
+ID:136 (Jungle Wood Stairs), Data:3
+ID:136 (Jungle Wood Stairs), Data:6
+ID:136 (Jungle Wood Stairs), Data:6
+ID:136 (Jungle Wood Stairs), Data:6
+ID:136 (Jungle Wood Stairs), Data:6
+ID:136 (Jungle Wood Stairs), Data:6
+ID:136 (Jungle Wood Stairs), Data:2
+ID:136 (Jungle Wood Stairs), Data:2
+ID:136 (Jungle Wood Stairs), Data:2
+ID:136 (Jungle Wood Stairs), Data:2
+ID:136 (Jungle Wood Stairs), Data:2
+ID:136 (Jungle Wood Stairs), Data:5
+ID:136 (Jungle Wood Stairs), Data:5
+ID:136 (Jungle Wood Stairs), Data:5
+ID:136 (Jungle Wood Stairs), Data:5
+ID:136 (Jungle Wood Stairs), Data:5
+ID:136 (Jungle Wood Stairs), Data:1
+ID:136 (Jungle Wood Stairs), Data:1
+ID:136 (Jungle Wood Stairs), Data:1
+ID:136 (Jungle Wood Stairs), Data:1
+ID:136 (Jungle Wood Stairs), Data:1
+ID:136 (Jungle Wood Stairs), Data:4
+ID:136 (Jungle Wood Stairs), Data:4
+ID:136 (Jungle Wood Stairs), Data:4
+ID:136 (Jungle Wood Stairs), Data:4
+ID:136 (Jungle Wood Stairs), Data:4
+ID:136 (Jungle Wood Stairs), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:136 (Jungle Wood Stairs), Data:0
+ID:136 (Jungle Wood Stairs), Data:0
+ID:136 (Jungle Wood Stairs), Data:0
+ID:136 (Jungle Wood Stairs), Data:0
+ID:136 (Jungle Wood Stairs), Data:0
+ID:137 (Command Block), Data:8
+ID:137 (Command Block), Data:9
+ID:137 (Command Block), Data:10
+ID:137 (Command Block), Data:11
+ID:137 (Command Block), Data:12
+ID:137 (Command Block), Data:13
+ID:137 (Command Block), Data:0
+ID:137 (Command Block), Data:1
+ID:137 (Command Block), Data:2
+ID:137 (Command Block), Data:3
+ID:137 (Command Block), Data:4
+ID:137 (Command Block), Data:5
+ID:138 (Beacon Block), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:0
+ID:139 (Cobblestone Wall), Data:1
+ID:139 (Cobblestone Wall), Data:1
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:140 (Flower Pot), Data:0
+ID:140 (Flower Pot), Data:1
+ID:140 (Flower Pot), Data:2
+ID:140 (Flower Pot), Data:3
+ID:140 (Flower Pot), Data:4
+ID:140 (Flower Pot), Data:5
+ID:140 (Flower Pot), Data:6
+ID:140 (Flower Pot), Data:7
+ID:140 (Flower Pot), Data:8
+ID:140 (Flower Pot), Data:9
+ID:140 (Flower Pot), Data:10
+ID:140 (Flower Pot), Data:11
+ID:140 (Flower Pot), Data:12
+ID:140 (Flower Pot), Data:13
+ID:140 (Flower Pot), Data:14
+ID:140 (Flower Pot), Data:15
+ID:141 (Carrots), Data:0
+ID:141 (Carrots), Data:1
+ID:141 (Carrots), Data:2
+ID:141 (Carrots), Data:3
+ID:141 (Carrots), Data:4
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:141 (Carrots), Data:4
+ID:141 (Carrots), Data:5
+ID:141 (Carrots), Data:6
+ID:141 (Carrots), Data:7
+ID:142 (Potatoes), Data:0
+ID:142 (Potatoes), Data:1
+ID:142 (Potatoes), Data:2
+ID:142 (Potatoes), Data:3
+ID:142 (Potatoes), Data:4
+ID:142 (Potatoes), Data:5
+ID:142 (Potatoes), Data:6
+ID:142 (Potatoes), Data:7
+ID:143 (Wooden Button), Data:8
+ID:143 (Wooden Button), Data:0
+ID:143 (Wooden Button), Data:13
+ID:143 (Wooden Button), Data:5
+ID:143 (Wooden Button), Data:12
+ID:143 (Wooden Button), Data:4
+ID:143 (Wooden Button), Data:11
+ID:143 (Wooden Button), Data:3
+ID:143 (Wooden Button), Data:10
+ID:143 (Wooden Button), Data:2
+ID:143 (Wooden Button), Data:9
+ID:143 (Wooden Button), Data:1
+ID:144 (Heads), Data:8
+ID:144 (Heads), Data:0
+ID:144 (Heads), Data:9
+ID:144 (Heads), Data:1
+ID:144 (Heads), Data:10
+ID:144 (Heads), Data:2
+ID:144 (Heads), Data:11
+ID:144 (Heads), Data:3
+ID:144 (Heads), Data:12
+ID:144 (Heads), Data:4
+ID:144 (Heads), Data:13
+ID:144 (Heads), Data:5
+ID:145 (Anvil), Data:2
+Data value '0x0002' not recognised for block 'Anvil' at 105,73
+ID:145 (Anvil), Data:0
+ID:145 (Anvil), Data:1
+ID:145 (Anvil), Data:3
+Data value '0x0003' not recognised for block 'Anvil' at 105,79
+ID:145 (Anvil), Data:6
+Data value '0x0006' not recognised for block 'Anvil' at 105,81
+ID:145 (Anvil), Data:4
+ID:145 (Anvil), Data:5
+ID:145 (Anvil), Data:7
+Data value '0x0007' not recognised for block 'Anvil' at 105,87
+ID:145 (Anvil), Data:10
+Data value '0x000A' not recognised for block 'Anvil' at 105,89
+ID:145 (Anvil), Data:8
+ID:145 (Anvil), Data:9
+ID:145 (Anvil), Data:11
+Data value '0x000B' not recognised for block 'Anvil' at 105,95
+ID:146 (Trapped Chest), Data:2
+ID:146 (Trapped Chest), Data:3
+ID:146 (Trapped Chest), Data:4
+ID:146 (Trapped Chest), Data:5
+ID:147 (Weighted Pressure Plate (Light)), Data:0
+ID:147 (Weighted Pressure Plate (Light)), Data:1
+ID:147 (Weighted Pressure Plate (Light)), Data:2
+ID:147 (Weighted Pressure Plate (Light)), Data:3
+ID:147 (Weighted Pressure Plate (Light)), Data:4
+ID:147 (Weighted Pressure Plate (Light)), Data:5
+ID:147 (Weighted Pressure Plate (Light)), Data:6
+ID:147 (Weighted Pressure Plate (Light)), Data:7
+ID:147 (Weighted Pressure Plate (Light)), Data:8
+ID:147 (Weighted Pressure Plate (Light)), Data:9
+ID:147 (Weighted Pressure Plate (Light)), Data:10
+ID:147 (Weighted Pressure Plate (Light)), Data:11
+ID:147 (Weighted Pressure Plate (Light)), Data:12
+ID:147 (Weighted Pressure Plate (Light)), Data:13
+ID:147 (Weighted Pressure Plate (Light)), Data:14
+ID:147 (Weighted Pressure Plate (Light)), Data:15
+ID:148 (Weighted Pressure Plate (Heavy)), Data:0
+ID:148 (Weighted Pressure Plate (Heavy)), Data:1
+ID:148 (Weighted Pressure Plate (Heavy)), Data:2
+ID:148 (Weighted Pressure Plate (Heavy)), Data:3
+ID:148 (Weighted Pressure Plate (Heavy)), Data:4
+ID:148 (Weighted Pressure Plate (Heavy)), Data:5
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:148 (Weighted Pressure Plate (Heavy)), Data:5
+ID:148 (Weighted Pressure Plate (Heavy)), Data:6
+ID:148 (Weighted Pressure Plate (Heavy)), Data:7
+ID:148 (Weighted Pressure Plate (Heavy)), Data:8
+ID:148 (Weighted Pressure Plate (Heavy)), Data:9
+ID:148 (Weighted Pressure Plate (Heavy)), Data:10
+ID:148 (Weighted Pressure Plate (Heavy)), Data:11
+ID:148 (Weighted Pressure Plate (Heavy)), Data:12
+ID:148 (Weighted Pressure Plate (Heavy)), Data:13
+ID:148 (Weighted Pressure Plate (Heavy)), Data:14
+ID:148 (Weighted Pressure Plate (Heavy)), Data:15
+ID:149 (Redstone Comparator (Inactive)), Data:10
+ID:149 (Redstone Comparator (Inactive)), Data:2
+ID:149 (Redstone Comparator (Inactive)), Data:14
+ID:149 (Redstone Comparator (Inactive)), Data:6
+ID:149 (Redstone Comparator (Inactive)), Data:8
+ID:149 (Redstone Comparator (Inactive)), Data:0
+ID:149 (Redstone Comparator (Inactive)), Data:12
+ID:149 (Redstone Comparator (Inactive)), Data:4
+ID:149 (Redstone Comparator (Inactive)), Data:9
+ID:149 (Redstone Comparator (Inactive)), Data:1
+ID:149 (Redstone Comparator (Inactive)), Data:13
+ID:149 (Redstone Comparator (Inactive)), Data:5
+ID:149 (Redstone Comparator (Inactive)), Data:11
+ID:149 (Redstone Comparator (Inactive)), Data:3
+ID:149 (Redstone Comparator (Inactive)), Data:15
+ID:149 (Redstone Comparator (Inactive)), Data:7
+ID:150 (Redstone Comparator (Active)), Data:10
+ID:150 (Redstone Comparator (Active)), Data:2
+ID:150 (Redstone Comparator (Active)), Data:14
+ID:150 (Redstone Comparator (Active)), Data:6
+ID:150 (Redstone Comparator (Active)), Data:8
+ID:150 (Redstone Comparator (Active)), Data:0
+ID:150 (Redstone Comparator (Active)), Data:12
+ID:150 (Redstone Comparator (Active)), Data:4
+ID:150 (Redstone Comparator (Active)), Data:9
+ID:150 (Redstone Comparator (Active)), Data:1
+ID:150 (Redstone Comparator (Active)), Data:13
+ID:150 (Redstone Comparator (Active)), Data:5
+ID:150 (Redstone Comparator (Active)), Data:11
+ID:150 (Redstone Comparator (Active)), Data:3
+ID:150 (Redstone Comparator (Active)), Data:15
+ID:150 (Redstone Comparator (Active)), Data:7
+ID:151 (Daylight Sensor), Data:0
+ID:151 (Daylight Sensor), Data:1
+ID:151 (Daylight Sensor), Data:2
+ID:151 (Daylight Sensor), Data:3
+ID:151 (Daylight Sensor), Data:4
+ID:151 (Daylight Sensor), Data:5
+ID:151 (Daylight Sensor), Data:6
+ID:151 (Daylight Sensor), Data:7
+ID:151 (Daylight Sensor), Data:8
+ID:151 (Daylight Sensor), Data:9
+ID:151 (Daylight Sensor), Data:10
+ID:151 (Daylight Sensor), Data:11
+ID:151 (Daylight Sensor), Data:12
+ID:151 (Daylight Sensor), Data:13
+ID:151 (Daylight Sensor), Data:14
+ID:151 (Daylight Sensor), Data:15
+ID:152 (Block of Redstone), Data:0
+ID:153 (Neither Quartz Ore), Data:0
+ID:154 (Hopper), Data:0
+ID:154 (Hopper), Data:2
+ID:154 (Hopper), Data:3
+ID:154 (Hopper), Data:4
+ID:154 (Hopper), Data:5
+ID:154 (Hopper), Data:8
+Data value '0x0008' not recognised for block 'Hopper' at 107,133
+ID:154 (Hopper), Data:10
+Data value '0x000A' not recognised for block 'Hopper' at 107,135
+ID:154 (Hopper), Data:11
+Data value '0x000B' not recognised for block 'Hopper' at 107,137
+ID:154 (Hopper), Data:12
+Data value '0x000C' not recognised for block 'Hopper' at 107,139
+ID:154 (Hopper), Data:13
+Data value '0x000D' not recognised for block 'Hopper' at 107,141
+ID:155 (Block of Quartz), Data:0
+ID:155 (Block of Quartz), Data:1
+ID:155 (Block of Quartz), Data:2
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:155 (Block of Quartz), Data:2
+ID:155 (Block of Quartz), Data:3
+ID:155 (Block of Quartz), Data:4
+ID:156 (Quartz Stairs), Data:7
+ID:156 (Quartz Stairs), Data:7
+ID:156 (Quartz Stairs), Data:7
+ID:156 (Quartz Stairs), Data:7
+ID:156 (Quartz Stairs), Data:7
+ID:156 (Quartz Stairs), Data:3
+ID:156 (Quartz Stairs), Data:3
+ID:156 (Quartz Stairs), Data:3
+ID:156 (Quartz Stairs), Data:3
+ID:156 (Quartz Stairs), Data:3
+ID:156 (Quartz Stairs), Data:6
+ID:156 (Quartz Stairs), Data:6
+ID:156 (Quartz Stairs), Data:6
+ID:156 (Quartz Stairs), Data:6
+ID:156 (Quartz Stairs), Data:6
+ID:156 (Quartz Stairs), Data:2
+ID:156 (Quartz Stairs), Data:2
+ID:156 (Quartz Stairs), Data:2
+ID:156 (Quartz Stairs), Data:2
+ID:156 (Quartz Stairs), Data:2
+ID:156 (Quartz Stairs), Data:5
+ID:156 (Quartz Stairs), Data:5
+ID:156 (Quartz Stairs), Data:5
+ID:156 (Quartz Stairs), Data:5
+ID:156 (Quartz Stairs), Data:5
+ID:156 (Quartz Stairs), Data:1
+ID:156 (Quartz Stairs), Data:1
+ID:156 (Quartz Stairs), Data:1
+ID:156 (Quartz Stairs), Data:1
+ID:156 (Quartz Stairs), Data:1
+ID:156 (Quartz Stairs), Data:4
+ID:156 (Quartz Stairs), Data:4
+ID:156 (Quartz Stairs), Data:4
+ID:156 (Quartz Stairs), Data:4
+ID:156 (Quartz Stairs), Data:4
+ID:156 (Quartz Stairs), Data:0
+ID:156 (Quartz Stairs), Data:0
+ID:156 (Quartz Stairs), Data:0
+ID:156 (Quartz Stairs), Data:0
+ID:156 (Quartz Stairs), Data:0
+ID:157 (Activator Rail), Data:8
+ID:157 (Activator Rail), Data:9
+ID:157 (Activator Rail), Data:10
+ID:157 (Activator Rail), Data:11
+ID:157 (Activator Rail), Data:12
+ID:157 (Activator Rail), Data:13
+ID:157 (Activator Rail), Data:0
+ID:157 (Activator Rail), Data:1
+ID:157 (Activator Rail), Data:2
+ID:157 (Activator Rail), Data:3
+ID:157 (Activator Rail), Data:4
+ID:157 (Activator Rail), Data:5
+ID:158 (Dropper), Data:8
+Data value '0x0008' not recognised for block 'Dropper' at 109,111
+ID:158 (Dropper), Data:0
+ID:158 (Dropper), Data:9
+Data value '0x0009' not recognised for block 'Dropper' at 109,115
+ID:158 (Dropper), Data:1
+ID:158 (Dropper), Data:10
+Data value '0x000A' not recognised for block 'Dropper' at 109,119
+ID:158 (Dropper), Data:2
+ID:158 (Dropper), Data:11
+Data value '0x000B' not recognised for block 'Dropper' at 109,123
+ID:158 (Dropper), Data:3
+ID:158 (Dropper), Data:12
+Data value '0x000C' not recognised for block 'Dropper' at 109,127
+ID:158 (Dropper), Data:4
+ID:158 (Dropper), Data:13
+Data value '0x000D' not recognised for block 'Dropper' at 109,131
+ID:158 (Dropper), Data:5
+ID:159 (Stained Clay), Data:0
+ID:159 (Stained Clay), Data:1
+ID:159 (Stained Clay), Data:2
+ID:159 (Stained Clay), Data:3
+ID:159 (Stained Clay), Data:4
+ID:159 (Stained Clay), Data:5
+ID:159 (Stained Clay), Data:6
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:159 (Stained Clay), Data:6
+ID:159 (Stained Clay), Data:7
+ID:159 (Stained Clay), Data:8
+ID:159 (Stained Clay), Data:9
+ID:159 (Stained Clay), Data:10
+ID:159 (Stained Clay), Data:11
+ID:159 (Stained Clay), Data:12
+ID:159 (Stained Clay), Data:13
+ID:159 (Stained Clay), Data:14
+ID:159 (Stained Clay), Data:15
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:0
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:1
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:2
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:3
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:160 (Stained Glass Pane), Data:3
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:4
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:5
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:6
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:7
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:8
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:9
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:10
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:11
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:12
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:0 (Air), Data:0
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:13
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:14
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:160 (Stained Glass Pane), Data:15
+ID:161 (Unknown Block), Data:8
